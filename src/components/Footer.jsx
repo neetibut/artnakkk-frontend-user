@@ -36,8 +36,15 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2024@ artNAKKK.com - All Right Reserved.
+          Copyright 2024-2025@ artNAKKK.com - All Right Reserved.
         </p>
+        <a
+          href="https://www.flaticon.com/free-icons/art"
+          title="art icons"
+          className="py-5 text-sm text-center block"
+        >
+          Art icons created by Freepik - Flaticon
+        </a>
       </div>
     </div>
   );
